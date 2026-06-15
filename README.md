@@ -1,4 +1,4 @@
-# cst8918-w26-A05-naveedhossain
+# CST8918 LAB-A05 Terraform Web Server
 
 ### screenshots
 
