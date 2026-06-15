@@ -30,7 +30,7 @@ provider "cloudinit" {
 # =====================================================================
 variable "labelPrefix" {
   type        = string
-  description = "College username. This will form the beginning of various resource names."
+  description = "Your college username. This will form the beginning of various resource names."
 }
 
 variable "region" {
